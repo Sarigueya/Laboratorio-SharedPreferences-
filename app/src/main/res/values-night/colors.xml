@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_primary">#8AB4F8</color>
+    <color name="blue_on_primary">#001B3F</color>
+    <color name="blue_primary_container">#16437E</color>
+    <color name="blue_on_primary_container">#D6E3FF</color>
+    <color name="blue_secondary">#A9C4E8</color>
+    <color name="blue_on_secondary">#1A2B4C</color>
+    <color name="blue_surface">#1A2430</color>
+    <color name="blue_on_surface">#E1E8F1</color>
+    <color name="blue_surface_variant">#2A3A4D</color>
+    <color name="blue_background">#0F1A26</color>
+    <color name="blue_gradient_start">#1E5A9E</color>
+    <color name="blue_gradient_end">#0D3A6B</color>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LabSem06</string>
+    <string name="title_preferences">Preferencias</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="label_dark_mode">Modo oscuro</string>
+    <string name="label_remember">Recordar sesión</string>
+    <string name="launch_count_format">Aperturas: %1$d</string>
+    <string name="launch_count_default">Aperturas: 0</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_reset">Restablecer</string>
+    <string name="msg_saved">Preferencias guardadas</string>
+    <string name="msg_reset">Preferencias restablecidas</string>
+    <string name="last_saved_format">Último guardado: %1$s</string>
+    <string name="last_saved_none">Último guardado: nunca</string>
+    <string name="err_empty_username">Ingresa tu nombre de usuario</string>
+    <string name="err_too_long">Máximo 24 caracteres</string>
+    <string name="dialog_remember_title">Recordar sesión</string>
+    <string name="dialog_remember_message">El nombre de usuario solo se autocompleta al abrir la aplicación si este interruptor está activo.</string>
+</resources>
