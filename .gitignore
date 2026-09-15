@@ -11,10 +11,5 @@ Thumbs.db
 .kotlin/
 local.properties
 
-# Autoskills de agentes de IA (descargadas, regenerables)
-.claude/
-.agents/
-skills-lock.json
-
 # Generado por Gradle toolchain (específico de la máquina)
 gradle/gradle-daemon-jvm.properties
